@@ -1,0 +1,33 @@
+h1, h2, h3, h4, p {
+    font-family: Helvetica;
+    
+}
+
+.topheader {
+    background-image: url("https://codehs.com/uploads/303b05370e3edaa88b1ef864b3d3df60");
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    
+}
+
+.h3brushes {
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.h3frames {
+    color: white;
+    background-color: lightcoral;
+}
+
+.h3paint {
+    color: white;
+    background-color: skyblue;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
